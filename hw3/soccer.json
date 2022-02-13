@@ -1,0 +1,198 @@
+{
+    "Soccer": [      
+      {
+            "PutRequest": {
+                "Item": {
+                    "ScoreIndex": {"N": "1"},
+                    "HomeTeamName": {"S": "Austin FC"},
+                    "AwayTeamName": {"S": "San Jose Quakes"},
+                    "HomeTeamScore": {"N": "3"},
+                    "AwayTeamScore": {"N": "4"},
+                    "GameDate": {"S": "2021-09-19"}
+                }
+            }
+        },
+        
+        {
+            "PutRequest": {
+                "Item": {
+                    "ScoreIndex": {"N": "2"},
+                    "HomeTeamName": {"S": "Austin FC"},
+                    "AwayTeamName": {"S": "Los Angelas Football Club"},
+                    "HomeTeamScore": {"N": "1"},
+                    "AwayTeamScore": {"N": "2"},
+                    "GameDate": {"S": "2021-09-16"}
+                }
+            }
+        },
+        
+        {
+            "PutRequest": {
+                "Item": {
+                    "ScoreIndex": {"N": "3"},
+                    "HomeTeamName": {"S": "Houston Dynamo FC"},
+                    "AwayTeamName": {"S": "Austin FC"},
+                    "HomeTeamScore": {"N": "3"},
+                    "AwayTeamScore": {"N": "0"},
+                    "GameDate": {"S": "2021-09-12"}
+                }
+            }
+        },
+        
+        {
+            "PutRequest": {
+                "Item": {
+                    "ScoreIndex": {"N": "4"},
+                    "HomeTeamName": {"S": "Vancouver Whitecaps FC"},
+                    "AwayTeamName": {"S": "Austin FC"},
+                    "HomeTeamScore": {"N": "2"},
+                    "AwayTeamScore": {"N": "1"},
+                    "GameDate": {"S": "2021-09-5"}
+                }
+            }
+        },
+        
+        {
+            "PutRequest": {
+                "Item": {
+                    "ScoreIndex": {"N": "5"},
+                    "HomeTeamName": {"S": "Austin FC"},
+                    "AwayTeamName": {"S": "FC Dallas"},
+                    "HomeTeamScore": {"N": "3"},
+                    "AwayTeamScore": {"N": "5"},
+                    "GameDate": {"S": "2021-08-30"}
+                }
+            }
+        },
+        
+        {
+            "PutRequest": {
+                "Item": {
+                    "ScoreIndex": {"N": "6"},
+                    "HomeTeamName": {"S": "D.C. United"},
+                    "AwayTeamName": {"S": "Chicago Fire FC"},
+                    "HomeTeamScore": {"N": "3"},
+                    "AwayTeamScore": {"N": "0"},
+                    "GameDate": {"S": "2021-09-16"}
+                }
+            }
+        },
+        
+        {
+            "PutRequest": {
+                "Item": {
+                    "ScoreIndex": {"N": "7"},
+                    "HomeTeamName": {"S": "Atlanta United"},
+                    "AwayTeamName": {"S": "D.C. United"},
+                    "HomeTeamScore": {"N": "3"},
+                    "AwayTeamScore": {"N": "2"},
+                    "GameDate": {"S": "2021-09-18"}
+                }
+            }
+        },
+        
+        {
+            "PutRequest": {
+                "Item": {
+                    "ScoreIndex": {"N": "8"},
+                    "HomeTeamName": {"S": "New York Red Bulls"},
+                    "AwayTeamName": {"S": "D.C. United"},
+                    "HomeTeamScore": {"N": "1"},
+                    "AwayTeamScore": {"N": "1"},
+                    "GameDate": {"S": "2021-09-12"}
+                }
+            }
+        },
+        
+        {
+            "PutRequest": {
+                "Item": {
+                    "ScoreIndex": {"N": "9"},
+                    "HomeTeamName": {"S": "D.C. United"},
+                    "AwayTeamName": {"S": "Philidelphia Union"},
+                    "HomeTeamScore": {"N": "3"},
+                    "AwayTeamScore": {"N": "1"},
+                    "GameDate": {"S": "2021-08-29"}
+                }
+            }
+        },
+        
+        {
+            "PutRequest": {
+                "Item": {
+                    "ScoreIndex": {"N": "10"},
+                    "HomeTeamName": {"S": "D.C. United"},
+                    "AwayTeamName": {"S": "Atlanta United"},
+                    "HomeTeamScore": {"N": "1"},
+                    "AwayTeamScore": {"N": "2"},
+                    "GameDate": {"S": "2021-08-22"}
+                }
+            }
+        },
+        
+        {
+            "PutRequest": {
+                "Item": {
+                    "ScoreIndex": {"N": "11"},
+                    "HomeTeamName": {"S": "CF Montreal"},
+                    "AwayTeamName": {"S": "Chicago Fire FC"},
+                    "HomeTeamScore": {"N": "2"},
+                    "AwayTeamScore": {"N": "0"},
+                    "GameDate": {"S": "2021-09-19"}
+                }
+            }
+        },
+        
+        {
+            "PutRequest": {
+                "Item": {
+                    "ScoreIndex": {"N": "12"},
+                    "HomeTeamName": {"S": "Orlando City"},
+                    "AwayTeamName": {"S": "CF Montreal"},
+                    "HomeTeamScore": {"N": "2"},
+                    "AwayTeamScore": {"N": "4"},
+                    "GameDate": {"S": "2021-09-16"}
+                }
+            }
+        },
+        
+        {
+            "PutRequest": {
+                "Item": {
+                    "ScoreIndex": {"N": "13"},
+                    "HomeTeamName": {"S": "CF Montreal"},
+                    "AwayTeamName": {"S": "Toronto FC"},
+                    "HomeTeamScore": {"N": "3"},
+                    "AwayTeamScore": {"N": "1"},
+                    "GameDate": {"S": "2021-08-28"}
+                }
+            }
+        },
+        
+        {
+            "PutRequest": {
+                "Item": {
+                    "ScoreIndex": {"N": "14"},
+                    "HomeTeamName": {"S": "CF Montreal"},
+                    "AwayTeamName": {"S": "Nashville SC"},
+                    "HomeTeamScore": {"N": "0"},
+                    "AwayTeamScore": {"N": "1"},
+                    "GameDate": {"S": "2021-09-12"}
+                }
+            }
+        },
+        
+        {
+            "PutRequest": {
+                "Item": {
+                    "ScoreIndex": {"N": "15"},
+                    "HomeTeamName": {"S": "Philidelphia Union"},
+                    "AwayTeamName": {"S": "CF Montreal"},
+                    "HomeTeamScore": {"N": "1"},
+                    "AwayTeamScore": {"N": "1"},
+                    "GameDate": {"S": "2021-08-22"}
+                }
+            }
+        }
+      ]
+}

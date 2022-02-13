@@ -1,0 +1,198 @@
+{
+    "Baseball": [      
+      {
+            "PutRequest": {
+                "Item": {
+                    "ScoreIndex": {"N": "1"},
+                    "HomeTeamName": {"S": "Reds"},
+                    "AwayTeamName": {"S": "Pirates"},
+                    "HomeTeamScore": {"N": "2"},
+                    "AwayTeamScore": {"N": "6"},
+                    "GameDate": {"S": "2021-09-21"}
+                }
+            }
+        },
+        
+        {
+            "PutRequest": {
+                "Item": {
+                    "ScoreIndex": {"N": "2"},
+                    "HomeTeamName": {"S": "Reds"},
+                    "AwayTeamName": {"S": "Pirates"},
+                    "HomeTeamScore": {"N": "9"},
+                    "AwayTeamScore": {"N": "5"},
+                    "GameDate": {"S": "2021-09-20"}
+                }
+            }
+        },
+        
+        {
+            "PutRequest": {
+                "Item": {
+                    "ScoreIndex": {"N": "3"},
+                    "HomeTeamName": {"S": "Marlins"},
+                    "AwayTeamName": {"S": "Pirates"},
+                    "HomeTeamScore": {"N": "6"},
+                    "AwayTeamScore": {"N": "5"},
+                    "GameDate": {"S": "2021-09-19"}
+                }
+            }
+        },
+        
+        {
+            "PutRequest": {
+                "Item": {
+                    "ScoreIndex": {"N": "4"},
+                    "HomeTeamName": {"S": "Marlins"},
+                    "AwayTeamName": {"S": "Pirates"},
+                    "HomeTeamScore": {"N": "3"},
+                    "AwayTeamScore": {"N": "6"},
+                    "GameDate": {"S": "2021-09-18"}
+                }
+            }
+        },
+        
+        {
+            "PutRequest": {
+                "Item": {
+                    "ScoreIndex": {"N": "5"},
+                    "HomeTeamName": {"S": "Marlins"},
+                    "AwayTeamName": {"S": "Pirates"},
+                    "HomeTeamScore": {"N": "1"},
+                    "AwayTeamScore": {"N": "2"},
+                    "GameDate": {"S": "2021-09-17"}
+                }
+            }
+        },
+        
+        {
+            "PutRequest": {
+                "Item": {
+                    "ScoreIndex": {"N": "6"},
+                    "HomeTeamName": {"S": "Cubs"},
+                    "AwayTeamName": {"S": "Twins"},
+                    "HomeTeamScore": {"N": "4"},
+                    "AwayTeamScore": {"N": "5"},
+                    "GameDate": {"S": "2021-09-22"}
+                }
+            }
+        },
+        
+        {
+            "PutRequest": {
+                "Item": {
+                    "ScoreIndex": {"N": "7"},
+                    "HomeTeamName": {"S": "Cubs"},
+                    "AwayTeamName": {"S": "Twins"},
+                    "HomeTeamScore": {"N": "5"},
+                    "AwayTeamScore": {"N": "9"},
+                    "GameDate": {"S": "2021-09-21"}
+                }
+            }
+        },
+        
+        {
+            "PutRequest": {
+                "Item": {
+                    "ScoreIndex": {"N": "8"},
+                    "HomeTeamName": {"S": "Brewers"},
+                    "AwayTeamName": {"S": "Cubs"},
+                    "HomeTeamScore": {"N": "4"},
+                    "AwayTeamScore": {"N": "6"},
+                    "GameDate": {"S": "2021-09-19"}
+                }
+            }
+        },
+        
+        {
+            "PutRequest": {
+                "Item": {
+                    "ScoreIndex": {"N": "9"},
+                    "HomeTeamName": {"S": "Brewers"},
+                    "AwayTeamName": {"S": "Cubs"},
+                    "HomeTeamScore": {"N": "6"},
+                    "AwayTeamScore": {"N": "4"},
+                    "GameDate": {"S": "2021-09-18"}
+                }
+            }
+        },
+        
+        {
+            "PutRequest": {
+                "Item": {
+                    "ScoreIndex": {"N": "10"},
+                    "HomeTeamName": {"S": "Brewers"},
+                    "AwayTeamName": {"S": "Cubs"},
+                    "HomeTeamScore": {"N": "8"},
+                    "AwayTeamScore": {"N": "5"},
+                    "GameDate": {"S": "2021-09-17"}
+                }
+            }
+        },
+        
+         {
+            "PutRequest": {
+                "Item": {
+                    "ScoreIndex": {"N": "11"},
+                    "HomeTeamName": {"S": "Athletics"},
+                    "AwayTeamName": {"S": "Mariners"},
+                    "HomeTeamScore": {"N": "1"},
+                    "AwayTeamScore": {"N": "4"},
+                    "GameDate": {"S": "2021-09-22"}
+                }
+            }
+        },
+        
+        {
+            "PutRequest": {
+                "Item": {
+                    "ScoreIndex": {"N": "12"},
+                    "HomeTeamName": {"S": "Athletics"},
+                    "AwayTeamName": {"S": "Mariners"},
+                    "HomeTeamScore": {"N": "2"},
+                    "AwayTeamScore": {"N": "5"},
+                    "GameDate": {"S": "2021-09-21"}
+                }
+            }
+        },
+        
+        {
+            "PutRequest": {
+                "Item": {
+                    "ScoreIndex": {"N": "13"},
+                    "HomeTeamName": {"S": "Athletics"},
+                    "AwayTeamName": {"S": "Mariners"},
+                    "HomeTeamScore": {"N": "2"},
+                    "AwayTeamScore": {"N": "4"},
+                    "GameDate": {"S": "2021-09-20"}
+                }
+            }
+        },
+        
+        {
+            "PutRequest": {
+                "Item": {
+                    "ScoreIndex": {"N": "14"},
+                    "HomeTeamName": {"S": "Royals"},
+                    "AwayTeamName": {"S": "Mariners"},
+                    "HomeTeamScore": {"N": "1"},
+                    "AwayTeamScore": {"N": "7"},
+                    "GameDate": {"S": "2021-09-19"}
+                }
+            }
+        },
+        
+        {
+            "PutRequest": {
+                "Item": {
+                    "ScoreIndex": {"N": "15"},
+                    "HomeTeamName": {"S": "Royals"},
+                    "AwayTeamName": {"S": "Mariners"},
+                    "HomeTeamScore": {"N": "8"},
+                    "AwayTeamScore": {"N": "1"},
+                    "GameDate": {"S": "2021-09-18"}
+                }
+            }
+        }
+      ]
+}

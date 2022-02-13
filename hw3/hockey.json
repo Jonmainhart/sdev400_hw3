@@ -1,0 +1,302 @@
+{
+    "Hockey": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "ScoreIndex": {"N": "1"},
+                    "HomeTeamName": {"S": "Golden Knights"},
+                    "AwayTeamName": {"S": "Avalanche"},
+                    "HomeTeamScore": {"N": "6"},
+                    "AwayTeamScore": {"N": "3"},
+                    "GameDate": {"S": "2021-06-10"}
+                }
+            }
+        },
+        
+        {
+            "PutRequest": {
+                "Item": {
+                    "ScoreIndex": {"N": "2"},
+                    "HomeTeamName": {"S": "Avalanche"},
+                    "AwayTeamName": {"S": "Golden Knights"},
+                    "HomeTeamScore": {"N": "2"},
+                    "AwayTeamScore": {"N": "3"},
+                    "GameDate": {"S": "2021-06-08"}
+                }
+            }
+        },
+        
+        {
+            "PutRequest": {
+                "Item": {
+                    "ScoreIndex": {"N": "3"},
+                    "HomeTeamName": {"S": "Golden Knights"},
+                    "AwayTeamName": {"S": "Avalanche"},
+                    "HomeTeamScore": {"N": "5"},
+                    "AwayTeamScore": {"N": "1"},
+                    "GameDate": {"S": "2021-06-06"}
+                }
+            }
+        },
+        
+        {
+            "PutRequest": {
+                "Item": {
+                    "ScoreIndex": {"N": "4"},
+                    "HomeTeamName": {"S": "Golden Knights"},
+                    "AwayTeamName": {"S": "Avalanche"},
+                    "HomeTeamScore": {"N": "3"},
+                    "AwayTeamScore": {"N": "2"},
+                    "GameDate": {"S": "2021-06-04"}
+                }
+            }
+        },
+        
+        {
+            "PutRequest": {
+                "Item": {
+                    "ScoreIndex": {"N": "5"},
+                    "HomeTeamName": {"S": "Avalanche"},
+                    "AwayTeamName": {"S": "Golden Knights"},
+                    "HomeTeamScore": {"N": "3"},
+                    "AwayTeamScore": {"N": "2"},
+                    "GameDate": {"S": "2021-06-02"}
+                }
+            }
+        },
+        
+        {
+            "PutRequest": {
+                "Item": {
+                    "ScoreIndex": {"N": "6"},
+                    "HomeTeamName": {"S": "Lightning"},
+                    "AwayTeamName": {"S": "Canadiens"},
+                    "HomeTeamScore": {"N": "1"},
+                    "AwayTeamScore": {"N": "0"},
+                    "GameDate": {"S": "2021-07-07"}
+                }
+            }
+        },
+        
+        {
+            "PutRequest": {
+                "Item": {
+                    "ScoreIndex": {"N": "7"},
+                    "HomeTeamName": {"S": "Canadiens"},
+                    "AwayTeamName": {"S": "Lightning"},
+                    "HomeTeamScore": {"N": "3"},
+                    "AwayTeamScore": {"N": "2"},
+                    "GameDate": {"S": "2021-07-05"}
+                }
+            }
+        },
+        
+        {
+            "PutRequest": {
+                "Item": {
+                    "ScoreIndex": {"N": "8"},
+                    "HomeTeamName": {"S": "Canadiens"},
+                    "AwayTeamName": {"S": "Lightning"},
+                    "HomeTeamScore": {"N": "3"},
+                    "AwayTeamScore": {"N": "6"},
+                    "GameDate": {"S": "2021-07-02"}
+                }
+            }
+        },
+        
+        {
+            "PutRequest": {
+                "Item": {
+                    "ScoreIndex": {"N": "9"},
+                    "HomeTeamName": {"S": "Lightning"},
+                    "AwayTeamName": {"S": "Canadiens"},
+                    "HomeTeamScore": {"N": "3"},
+                    "AwayTeamScore": {"N": "1"},
+                    "GameDate": {"S": "2021-06-30"}
+                }
+            }
+        },
+        
+        {
+            "PutRequest": {
+                "Item": {
+                    "ScoreIndex": {"N": "10"},
+                    "HomeTeamName": {"S": "Lightning"},
+                    "AwayTeamName": {"S": "Canadiens"},
+                    "HomeTeamScore": {"N": "5"},
+                    "AwayTeamScore": {"N": "1"},
+                    "GameDate": {"S": "2021-06-28"}
+                }
+            }
+        },
+        
+        {
+            "PutRequest": {
+                "Item": {
+                    "ScoreIndex": {"N": "11"},
+                    "HomeTeamName": {"S": "Lightning"},
+                    "AwayTeamName": {"S": "Islanders"},
+                    "HomeTeamScore": {"N": "1"},
+                    "AwayTeamScore": {"N": "0"},
+                    "GameDate": {"S": "2021-06-25"}
+                }
+            }
+        },
+        
+        {
+            "PutRequest": {
+                "Item": {
+                    "ScoreIndex": {"N": "12"},
+                    "HomeTeamName": {"S": "Canadiens"},
+                    "AwayTeamName": {"S": "Golden Knights"},
+                    "HomeTeamScore": {"N": "3"},
+                    "AwayTeamScore": {"N": "2"},
+                    "GameDate": {"S": "2021-06-24"}
+                }
+            }
+        },
+        
+        {
+            "PutRequest": {
+                "Item": {
+                    "ScoreIndex": {"N": "13"},
+                    "HomeTeamName": {"S": "Islanders"},
+                    "AwayTeamName": {"S": "Lightning"},
+                    "HomeTeamScore": {"N": "3"},
+                    "AwayTeamScore": {"N": "2"},
+                    "GameDate": {"S": "2021-06-23"}
+                }
+            }
+        },
+        
+        {
+            "PutRequest": {
+                "Item": {
+                    "ScoreIndex": {"N": "14"},
+                    "HomeTeamName": {"S": "Golden Knights"},
+                    "AwayTeamName": {"S": "Canadiens"},
+                    "HomeTeamScore": {"N": "1"},
+                    "AwayTeamScore": {"N": "4"},
+                    "GameDate": {"S": "2021-06-22"}
+                }
+            }
+        },
+        
+        {
+            "PutRequest": {
+                "Item": {
+                    "ScoreIndex": {"N": "15"},
+                    "HomeTeamName": {"S": "Lightning"},
+                    "AwayTeamName": {"S": "Islanders"},
+                    "HomeTeamScore": {"N": "8"},
+                    "AwayTeamScore": {"N": "0"},
+                    "GameDate": {"S": "2021-06-21"}
+                }
+            }
+        },
+        
+        {
+            "PutRequest": {
+                "Item": {
+                    "ScoreIndex": {"N": "16"},
+                    "HomeTeamName": {"S": "Canadiens"},
+                    "AwayTeamName": {"S": "Golden Knights"},
+                    "HomeTeamScore": {"N": "1"},
+                    "AwayTeamScore": {"N": "2"},
+                    "GameDate": {"S": "2021-06-20"}
+                }
+            }
+        },
+        
+        {
+            "PutRequest": {
+                "Item": {
+                    "ScoreIndex": {"N": "17"},
+                    "HomeTeamName": {"S": "Islanders"},
+                    "AwayTeamName": {"S": "Lightning"},
+                    "HomeTeamScore": {"N": "3"},
+                    "AwayTeamScore": {"N": "2"},
+                    "GameDate": {"S": "2021-06-19"}
+                }
+            }
+        },
+        
+        {
+            "PutRequest": {
+                "Item": {
+                    "ScoreIndex": {"N": "18"},
+                    "HomeTeamName": {"S": "Canadiens"},
+                    "AwayTeamName": {"S": "Golden Knights"},
+                    "HomeTeamScore": {"N": "3"},
+                    "AwayTeamScore": {"N": "2"},
+                    "GameDate": {"S": "2021-06-18"}
+                }
+            }
+        },
+        
+        {
+            "PutRequest": {
+                "Item": {
+                    "ScoreIndex": {"N": "19"},
+                    "HomeTeamName": {"S": "Islanders"},
+                    "AwayTeamName": {"S": "Lightning"},
+                    "HomeTeamScore": {"N": "1"},
+                    "AwayTeamScore": {"N": "2"},
+                    "GameDate": {"S": "2021-06-17"}
+                }
+            }
+        },
+        
+        {
+            "PutRequest": {
+                "Item": {
+                    "ScoreIndex": {"N": "20"},
+                    "HomeTeamName": {"S": "Golden Knights"},
+                    "AwayTeamName": {"S": "Canadiens"},
+                    "HomeTeamScore": {"N": "2"},
+                    "AwayTeamScore": {"N": "3"},
+                    "GameDate": {"S": "2021-06-16"}
+                }
+            }
+        },
+        
+        {
+            "PutRequest": {
+                "Item": {
+                    "ScoreIndex": {"N": "21"},
+                    "HomeTeamName": {"S": "Lightning"},
+                    "AwayTeamName": {"S": "Islanders"},
+                    "HomeTeamScore": {"N": "2"},
+                    "AwayTeamScore": {"N": "4"},
+                    "GameDate": {"S": "2021-06-15"}
+                }
+            }
+        },
+        
+        {
+            "PutRequest": {
+                "Item": {
+                    "ScoreIndex": {"N": "22"},
+                    "HomeTeamName": {"S": "Golden Knights"},
+                    "AwayTeamName": {"S": "Canadiens"},
+                    "HomeTeamScore": {"N": "4"},
+                    "AwayTeamScore": {"N": "1"},
+                    "GameDate": {"S": "2021-06-14"}
+                }
+            }
+        },
+        
+        {
+            "PutRequest": {
+                "Item": {
+                    "ScoreIndex": {"N": "23"},
+                    "HomeTeamName": {"S": "Lightning"},
+                    "AwayTeamName": {"S": "Islanders"},
+                    "HomeTeamScore": {"N": "1"},
+                    "AwayTeamScore": {"N": "2"},
+                    "GameDate": {"S": "2021-06-13"}
+                }
+            }
+        }
+        ]
+}
